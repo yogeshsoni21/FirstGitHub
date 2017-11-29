@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace FirstGitHub
 {
-    public class Class1
+   public class Test
     {
-        string a;
     }
 }
